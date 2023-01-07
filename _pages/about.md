@@ -20,7 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome!
 
-I am a macroeconomist with research interests in climate change, monetary policy, asset pricing, and heterogeneities. I completed my PhD in economics at PSL Research University and am currently visiting the Grantham Research Institute at the London School of Economics and Political Science.
+I am a macroeconomist with research interests in climate change, monetary policy, asset pricing, and heterogeneities. 
+
+I completed my PhD in economics at PSL Research University and am currently visiting the Grantham Research Institute at the London School of Economics and Political Science.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
