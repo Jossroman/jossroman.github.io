@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
@@ -17,6 +17,8 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+Welcome!
 
 I am a macroeconomist with research interests in climate change, monetary policy, asset pricing, and heterogeneities. I completed my PhD in economics at PSL Research University and am currently visiting the Grantham Research Institute at the London School of Economics and Political Science.
 
