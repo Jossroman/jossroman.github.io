@@ -26,6 +26,6 @@ Welcome!
 
 I am a macroeconomist with research interests in climate change, public policies, finance, and heterogeneities. 
 
-I completed my PhD in economics at PSL Research University in December 2021. After visiting the Grantham Research Institute at the London School of Economics, I recently joined the European Commission's Joint Research Centre.
+I completed my PhD in economics at [PSL Research University - Paris Dauphine](https://dauphine.psl.eu/en/) in December 2021. After visiting the [Grantham Research Institute](https://www.lse.ac.uk/granthaminstitute/) at the London School of Economics, I recently joined the [European Commission's Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) in Ispra.
 
 The views expressed on this website and in my papers are my own and do not necessarily reflect the opiniosn of the European Commission.
