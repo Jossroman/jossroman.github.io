@@ -5,4 +5,4 @@ inline: true
 # A simple inline announcement with Markdown emoji! :sparkles: :smile:
 ---
 
-:alert New working paper out in the GRI WP series! Check it out: 
+:rotating_ligth New working paper out in the GRI WP series! Check it out: 
