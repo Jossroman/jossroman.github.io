@@ -7,6 +7,9 @@ years: [1967, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 1
 ---
+
+## Submitted Papers
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
@@ -17,6 +20,7 @@ nav_order: 1
 
 </div>
 
+## Submitted Papers
 
 ## Work in Progress
 
