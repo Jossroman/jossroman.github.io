@@ -21,13 +21,16 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+    - title: MRes in Financial and Monetary Economics
+      institution: PSL Research University - Paris Dauphine, France
+      year: 2017
+    - title: BSc in Economics
+      institution: Paris-Saclay University, France
+      year: 2015
+    - title: BSc in Management, specialized in Wealth Management
+      institution: PSL Research University - Paris Dauphine, France
+      year: 2013
+      
 - title: Experience
   type: time_table
   contents:
