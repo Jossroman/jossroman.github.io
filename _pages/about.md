@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://joint-research-centre.ec.europa.eu/index_en'>European Commission - Joint Research Centre</a>.  <br /><a href='https://dauphine.psl.eu/en/'>PSL Research University - Paris Dauphine</a>. 
+subtitle: <a href=https://joint-research-centre.ec.europa.eu/index_en>European Commission - Joint Research Centre</a>.  <br /><a href=https://dauphine.psl.eu/en/>PSL Research University - Paris Dauphine</a>. 
 universit
 profile:
   align: right
