@@ -30,7 +30,7 @@ nav_order: 1
 
 {%- for y in page.wip %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f wip  -q @*[year={{y}}]*%}
+  {% bibliography -f wip%}
 {% endfor %}
 
 </div>
