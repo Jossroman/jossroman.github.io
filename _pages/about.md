@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>European Commission - Joint Research Centre</a>.  
-          <a href='#'>PSL Research University - Paris Dauphine</a>. 
+subtitle: <a href='#'>European Commission - Joint Research Centre</a>.  <br /><a href='#'>PSL Research University - Paris Dauphine</a>. 
 
 profile:
   align: right
@@ -28,6 +27,6 @@ Welcome!
 
 I am a macroeconomist with research interests in climate change, public policies, finance, and heterogeneities. 
 
-I completed my PhD in economics at PSL Research University in December 2021. After visiting the Grantham Research Institute at the London School of Economics and Political Science, I recently joined the European Commission's Joint Research Centre.
+I completed my PhD in economics at PSL Research University in December 2021. After visiting the Grantham Research Institute at the London School of Economics, I recently joined the European Commission's Joint Research Centre.
 
 The views expressed on this website and in my papers are my own and do not necessarily reflect the opiniosn of the European Commission.
