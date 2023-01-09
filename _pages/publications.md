@@ -21,6 +21,8 @@ nav_order: 1
 
 </div>
 
+---
+
 ## Working Papers
 
 <!-- _pages/publications.md -->
