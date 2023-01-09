@@ -28,7 +28,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-  {% bibliography -f wip -q @*[index={{idx}}]*%}
+  {% bibliography -f wip%}
 
 </div>
 
