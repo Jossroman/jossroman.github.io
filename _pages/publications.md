@@ -9,20 +9,6 @@ nav: true
 nav_order: 1
 ---
 
-## Submitted Papers
-
-<!-- _pages/publications.md -->
-<div class="publications">
-
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f mypapers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
-
----
-
 ## Working Papers
 
 <!-- _pages/publications.md -->
@@ -39,8 +25,8 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 {%- for idx in page.wip_index %}
+  <h2 class="year">{{idx}}</h2>
   {% bibliography -f wip -q @*[index={{idx}}]*%}
-  <div class="publications">
 {% endfor %}
 
 </div>
