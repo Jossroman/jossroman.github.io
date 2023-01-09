@@ -39,7 +39,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 {%- for idx in page.wip_index %}
-  <div class="publications">
+  <div class="year">
   {% bibliography -f wip -q @*[index={{idx}}]*%}
 {% endfor %}
 
