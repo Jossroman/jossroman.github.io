@@ -29,7 +29,6 @@ nav_order: 1
 <div class="publications">
 
 {%- for y in page.wip %}
-  <h2 class="year">{{y}}</h2>
   {% bibliography -f wip%}
 {% endfor %}
 
