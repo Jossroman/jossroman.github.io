@@ -10,6 +10,17 @@ nav_order: 1
 ---
 
 ---
+## Submitted Papers
+--- 
+
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{% bibliography -f sp%}
+
+</div>
+
+---
 ## Working Papers
 --- 
 
