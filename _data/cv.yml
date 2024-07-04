@@ -11,7 +11,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Economist
+    - title: Research Economist
       institution: European Commission - Joint Research Centre
       year: Current
       # description:
@@ -39,7 +39,7 @@
     - title: Research Officer
       institution: Institut Louis Bachelier
       year: 2017
-      
+
 - title: Education
   type: time_table
   contents:
