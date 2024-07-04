@@ -8,29 +8,6 @@
     - name: Languages
       value: English, French
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Economics
-      institution: PSL Research University - Paris Dauphine
-      year: 2021
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
-    - title: MRes in Financial and Monetary Economics
-      institution: PSL Research University - Paris Dauphine
-      year: 2017
-    - title: BSc in Economics
-      institution: Paris-Saclay University
-      year: 2015
-    - title: BSc in Management, specialized in Wealth Management
-      institution: PSL Research University - Paris Dauphine
-      year: 2013
-
 - title: Experience
   type: time_table
   contents:
@@ -62,6 +39,29 @@
     - title: Research Officer
       institution: Institut Louis Bachelier
       year: 2017
+      
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Economics
+      institution: PSL Research University - Paris Dauphine
+      year: 2021
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: MRes in Financial and Monetary Economics
+      institution: PSL Research University - Paris Dauphine
+      year: 2017
+    - title: BSc in Economics
+      institution: Paris-Saclay University
+      year: 2015
+    - title: BSc in Management, specialized in Wealth Management
+      institution: PSL Research University - Paris Dauphine
+      year: 2013
 
 # - title: Open Source Projects
 #   type: time_table
