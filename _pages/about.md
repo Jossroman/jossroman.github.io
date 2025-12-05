@@ -2,10 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://joint-research-centre.ec.europa.eu/index_en'>European Commission - Joint Research Centre</a>.  <br /><a href='https://dauphine.psl.eu/en/'>PSL Research University - Paris Dauphine</a>. 
+subtitle: <a href='https://i-mip.eu/en/homepage/'> Institute for Macroeconomic and International Policies (CEPREMAP & PSE)</a>. # <br /><a href='https://dauphine.psl.eu/en/'>PSL Research University - Paris Dauphine</a>. 
 profile:
   align: right
-  image: prof_pic.png
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   #address: >
   #  <p>555 your office number</p>
