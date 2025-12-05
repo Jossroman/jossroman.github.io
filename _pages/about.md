@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://i-mip.eu/en/homepage/'> Institute for Macroeconomic and International Policies (CEPREMAP & PSE)</a>. # <br /><a href='https://dauphine.psl.eu/en/'>PSL Research University - Paris Dauphine</a>. 
+subtitle: <a href='https://i-mip.eu/en/homepage/'> Institute for Macroeconomic and International Policies (CEPREMAP & PSE)</a> # <br /><a href='https://dauphine.psl.eu/en/'>PSL Research University - Paris Dauphine</a>. 
 profile:
   align: right
   image: my_pic.jpg
@@ -26,6 +26,4 @@ Welcome!
 
 I am a macroeconomist with research interests in climate change, public policies, finance, and heterogeneities. 
 
-I received my PhD in economics from [PSL Research University - Paris Dauphine](https://dauphine.psl.eu/en/) in December 2021. After visiting the [Grantham Research Institute](https://www.lse.ac.uk/granthaminstitute/) at the London School of Economics, I joined the [European Commission's Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) in Ispra.
-
-The views expressed on this website and in my papers are my own and do not necessarily reflect the views of the European Commission.
+I received my PhD in economics from [PSL Research University - Paris Dauphine](https://dauphine.psl.eu/en/) in December 2021. After visiting the [Grantham Research Institute](https://www.lse.ac.uk/granthaminstitute/) at the London School of Economics, I joined the [European Commission's Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) where I spent 3 years in the macroeconomic modelling team. I am now a senior researcher at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/) within the [Institute for Macroeconomic and International Policies](https://i-mip.eu/en/the-institute/).
