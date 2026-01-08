@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://i-mip.eu/en/homepage/'> Institute for Macroeconomic and International Policies (CEPREMAP & PSE)</a> # <br /><a href='https://dauphine.psl.eu/en/'>PSL Research University - Paris Dauphine</a>. 
 profile:
   align: right
-  image: my_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   #address: >
   #  <p>555 your office number</p>
