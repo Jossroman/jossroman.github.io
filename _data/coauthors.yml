@@ -10,6 +10,10 @@
   - firstname: ["Akash"]
     url: https://www.akashraja.com/home
 
+"Rezai":
+  - firstname: ["Armon"]
+    url: https://www.wu.ac.at/en/pepp/staff/rezai-armon
+    
 "Tarsia":
   - firstname: ["Romano"]
     url: https://romanotarsia.com/
@@ -17,15 +21,11 @@
 "Taschini":
   - firstname: ["Luca"]
     url: https://www.lse.ac.uk/granthaminstitute/profile/luca-taschini/
-    
+
+"Van der Ploeg":
+  - firstname: ["Rick"]
+    url: https://www.economics.ox.ac.uk/people/rick-van-der-ploeg-0
+
 "Vermandel":
   - firstname: ["Gauthier"]
     url: https://vermandel.fr/
-
-"Van der Ploeg":
-  - firstname: ["Rick", "Van Der"]
-    url: https://www.economics.ox.ac.uk/people/rick-van-der-ploeg-0
-
-"Rezai":
-  - firstname: ["Armon"]
-    url: https://www.wu.ac.at/en/pepp/staff/rezai-armon
