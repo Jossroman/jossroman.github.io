@@ -39,7 +39,18 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-  {% bibliography -f wip%}
+{% bibliography -f wip%}
+
+</div>
+
+---
+## Policy Papers
+---
+
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{% bibliography -f polp%}
 
 </div>
 
