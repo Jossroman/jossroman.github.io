@@ -11,9 +11,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Researcher
+      institution: Paris School of Economics - i-MIP
+      year: Current
     - title: Research Economist
       institution: European Commission - Joint Research Centre
-      year: Current
+      year: 2022-2025
       # description:
       #   - Description 1.
       #   - Description 2.
